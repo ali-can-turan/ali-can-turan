@@ -22,7 +22,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-### 📁 Featured Projects (visit [my github repository](https://github.com/ali-can-turan?tab=repositories))
+### 📁 Featured Projects (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
 - 📊 [Retail Price Discrimination (RFM & WTP)](https://github.com/ali-can-turan/retail-price-discrimination-RFM-cognos) - %7.5 increase in revenue after the implementation of RFM and WTP,
 - 🚚 [Supply Chain Cost Reduction Strategy](https://github.com/ali-can-turan/cost-reduction-strategy) - removal of intermediaries and demi-transition into direct sales,
 - 📈 [Retail Sales & Performance Dashboard](https://github.com/ali-can-turan/sales-BI-analysis-excel) - BI insights on achieving optimum productivity.
