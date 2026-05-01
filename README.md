@@ -26,10 +26,11 @@
 
 </br>
 
-### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-3-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
+### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-4-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
 - 📊 [Retail Price Discrimination (RFM & WTP)](https://github.com/ali-can-turan/retail-price-discrimination-RFM-cognos) - %7.5 increase in revenue after the implementation of RFM and WTP,
 - 🚚 [Supply Chain Cost Reduction Strategy](https://github.com/ali-can-turan/cost-reduction-strategy) - removal of intermediaries and demi-transition into direct sales,
 - 📈 [Retail Sales & Performance Dashboard](https://github.com/ali-can-turan/sales-BI-analysis-excel) - BI insights on achieving optimum productivity.
+- 🧪 [Data cleaning automation script](https://github.com/ali-can-turan/clean-log-test) - with unlinked test logic and log utility
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-can-turan) - linkedin.com/in/ali-can-turan
