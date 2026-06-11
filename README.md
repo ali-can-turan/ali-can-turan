@@ -15,22 +15,22 @@
   <img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-<br>
 
-</br>
+<br>
 
 ![Data_Science](https://img.shields.io/badge/Focus-Data_Analysis-blue?style=for-the-badge&logo=python)
-
+<!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-can-turan&theme=dark)
-<br>
+-->
 
 </br>
 
-### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-4-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
+### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-5-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
 - 📊 [Retail Price Discrimination (RFM & WTP)](https://github.com/ali-can-turan/retail-price-discrimination-RFM-cognos) - %7.5 increase in revenue after the implementation of RFM and WTP,
 - 🚚 [Supply Chain Cost Reduction Strategy](https://github.com/ali-can-turan/cost-reduction-strategy) - removal of intermediaries and demi-transition into direct sales,
 - 📈 [Retail Sales & Performance Dashboard](https://github.com/ali-can-turan/sales-BI-analysis-excel) - BI insights on achieving optimum productivity.
 - 🧪 [Data Cleaning Automation Script](https://github.com/ali-can-turan/clean-log-test) - with unlinked test logic and log utility  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-can-turan/clean-log-test/HEAD)
+- 🖥️ [Sales Performance Monitoring Dashboard via Dash](https://github.com/ali-can-turan/dash-dashboard-design) - interactive sales dashboard with cross-filtering capability
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-can-turan) - linkedin.com/in/ali-can-turan
