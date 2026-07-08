@@ -5,15 +5,21 @@
 - 🎓 Domain: Supply Chain & Analytics  
 - 🧐 Interests: Economics, Generative AI  
 - 📊 Focus: Data-driven decision making 
-### 🛠 The tools / languages that I utilize:
+### 🛠 The languages / tools / frameworks that I utilize:
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+  <!-- <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dash-0081C5?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 <br>
@@ -22,7 +28,6 @@
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-can-turan&theme=dark)
 -->
-
 </br>
 
 ### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-5-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
