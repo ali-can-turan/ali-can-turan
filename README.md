@@ -4,7 +4,8 @@
 ### 🧠 About Me
 - 🎓 Domain: Supply Chain & Analytics  
 - 🧐 Interests: Economics, Generative AI  
-- 📊 Focus: Data-driven decision making 
+- 📊 Focus: Data-driven decision making
+
 ### 🛠 The languages / tools / frameworks that I utilize:
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -22,13 +23,20 @@
   <img src="https://img.shields.io/badge/Dash-0081C5?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-<br>
+<!-- <br>
 
 ![Data_Science](https://img.shields.io/badge/Focus-Data_Analysis-blue?style=for-the-badge&logo=python)
-<!--
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-can-turan&theme=dark)
--->
-</br>
+
+</br> -->
+
+### 🚀 ![Live Apps](https://img.shields.io/badge/Interactive_Apps-2-blue?style=for-the-badge&logo=streamlit&logoColor=white)
+| Application | Description | Live Demo |
+| :--- | :--- | :--- |
+| **Basic Dashboard** | Retail Analytics | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://first-dashboard-app.streamlit.app) |
+| **Code Breakdown App** | Car auction: car condition and price optimization analysis | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://app-car-auction.streamlit.app) |
+
 
 ### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-5-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
 - 📊 [Retail Price Discrimination (RFM & WTP)](https://github.com/ali-can-turan/retail-price-discrimination-RFM-cognos) - %7.5 increase in revenue after the implementation of RFM and WTP,
