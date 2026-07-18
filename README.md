@@ -31,19 +31,23 @@
 
 </br> -->
 
-### 🚀 ![Live Apps](https://img.shields.io/badge/Interactive_Apps-2-blue?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🚀 ![Live Apps](https://img.shields.io/badge/Interactive_Apps-3-blue?style=for-the-badge&logo=streamlit&logoColor=white)
 | Application | Description | Live Demo |
 | :--- | :--- | :--- |
 | **Basic Dashboard** | Retail Analytics | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://first-dashboard-app.streamlit.app) |
 | **Code Breakdown App** | Car auction: car condition and price optimization analysis | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://app-car-auction.streamlit.app) |
+| **Power BI Technical Showcase** | Sales Analysis | [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZjNlNzQ3MDAtOGJkMS00ZTA4LWIzYzQtZGM2Njg3Y2IzZTYyIiwidCI6ImI5ZWU3MjU0LWU4NmMtNDlmNy05YmIzLTMzNjhhYTkzZDlhZiJ9&pageName=184a8c199c1b9995b319)
 
 
-### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-5-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
+### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-6-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
+- 📊 [Sales Performance Monitoring Dashboard via Power BI](https://github.com/ali-can-turan/powerbi_technical_showcase) - interactive sales dashboard with snowflake schema, bookmarks and buttons, parameter-embedded visuals
+- 🖥️ [Sales Performance Monitoring Dashboard via DASH](https://github.com/ali-can-turan/dash-dashboard-design) - interactive sales dashboard with cross-filtering capability
+- 🧪 [Data Cleaning Automation Script](https://github.com/ali-can-turan/clean-log-test) - with unlinked test logic and log utility  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-can-turan/clean-log-test/HEAD)
 - 📊 [Retail Price Discrimination (RFM & WTP)](https://github.com/ali-can-turan/retail-price-discrimination-RFM-cognos) - %7.5 increase in revenue after the implementation of RFM and WTP,
 - 🚚 [Supply Chain Cost Reduction Strategy](https://github.com/ali-can-turan/cost-reduction-strategy) - removal of intermediaries and demi-transition into direct sales,
 - 📈 [Retail Sales & Performance Dashboard](https://github.com/ali-can-turan/sales-BI-analysis-excel) - BI insights on achieving optimum productivity.
-- 🧪 [Data Cleaning Automation Script](https://github.com/ali-can-turan/clean-log-test) - with unlinked test logic and log utility  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-can-turan/clean-log-test/HEAD)
-- 🖥️ [Sales Performance Monitoring Dashboard via Dash](https://github.com/ali-can-turan/dash-dashboard-design) - interactive sales dashboard with cross-filtering capability
+
+
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-can-turan) - linkedin.com/in/ali-can-turan
