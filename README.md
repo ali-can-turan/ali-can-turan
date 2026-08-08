@@ -40,7 +40,7 @@
 
 
 ### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-7-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
-- 🔍 [IBM capstone project - Today and Future of Data Analysis and Coding](https://github.com/ali-can-turan/ibm-capstone) - nalysis of the popular coding environments and tools and exploration of their relations to education levels, compensation, and job satisfaction.
+- 🔍 [IBM capstone project - Today and Future of Data Analysis and Coding](https://github.com/ali-can-turan/ibm-capstone) - analysis of the popular coding environments and tools and exploration of their relations to education levels, compensation, and job satisfaction.
 - 📊 [Sales Performance Monitoring Dashboard via Power BI](https://github.com/ali-can-turan/powerbi_technical_showcase) - interactive sales dashboard with snowflake schema, bookmarks and buttons, parameter-embedded visuals
 - 🖥️ [Sales Performance Monitoring Dashboard via DASH](https://github.com/ali-can-turan/dash-dashboard-design) - interactive sales dashboard with cross-filtering capability
 - 🧪 [Data Cleaning Automation Script](https://github.com/ali-can-turan/clean-log-test) - with unlinked test logic and log utility  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-can-turan/clean-log-test/HEAD)
