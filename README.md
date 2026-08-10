@@ -31,10 +31,11 @@
 
 </br> -->
 
-### 🚀 ![Live Apps](https://img.shields.io/badge/Interactive_Apps-3-blue?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🚀 ![Live Apps](https://img.shields.io/badge/Interactive_Apps-4-blue?style=for-the-badge&logo=streamlit&logoColor=white)
 | Application | Description | Live Demo |
 | :--- | :--- | :--- |
-| **Basic Dashboard** | Retail Analytics | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://first-dashboard-app.streamlit.app) |
+| An Aerial Delivery Calculation Tool | Compute cargo release point coordinates in HALO or HAHO ops.| [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://harp-x.streamlit.app)
+| **Basic Dashboard** | Retail Analytics | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://first-dashboard-app.streamlit.app) | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://app-car-auction.streamlit.app) 
 | **Code Breakdown App** | Car auction: car condition and price optimization analysis | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://app-car-auction.streamlit.app) |
 | **Power BI Technical Showcase** | Sales Analysis | [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZjNlNzQ3MDAtOGJkMS00ZTA4LWIzYzQtZGM2Njg3Y2IzZTYyIiwidCI6ImI5ZWU3MjU0LWU4NmMtNDlmNy05YmIzLTMzNjhhYTkzZDlhZiJ9&pageName=184a8c199c1b9995b319)
 
