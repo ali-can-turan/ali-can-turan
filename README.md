@@ -40,7 +40,8 @@
 | **Power BI Technical Showcase** | Sales Analysis | [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZjNlNzQ3MDAtOGJkMS00ZTA4LWIzYzQtZGM2Njg3Y2IzZTYyIiwidCI6ImI5ZWU3MjU0LWU4NmMtNDlmNy05YmIzLTMzNjhhYTkzZDlhZiJ9&pageName=184a8c199c1b9995b319)
 
 
-### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-7-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
+### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-8-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
+- 📦 [Supply Chain Analytics & Financial Diagnosis Portfolio](https://github.com/ali-can-turan/supply-chain-analytics-portfolio) - 5 end-to-end projects bridging macro sourcing, enterprise financial diagnostics, and inventory optimization.
 - 🔍 [IBM capstone project - Today and Future of Data Analysis and Coding](https://github.com/ali-can-turan/ibm-capstone) - analysis of the popular coding environments and tools and exploration of their relations to education levels, compensation, and job satisfaction.
 - 📊 [Sales Performance Monitoring Dashboard via Power BI](https://github.com/ali-can-turan/powerbi_technical_showcase) - interactive sales dashboard with snowflake schema, bookmarks and buttons, parameter-embedded visuals
 - 🖥️ [Sales Performance Monitoring Dashboard via DASH](https://github.com/ali-can-turan/dash-dashboard-design) - interactive sales dashboard with cross-filtering capability
