@@ -41,7 +41,7 @@
 
 
 ### 📁 ![Project](https://img.shields.io/badge/Completed_Projects-11-green?style=for-the-badge&logo=github) (visit [my github repositories](https://github.com/ali-can-turan?tab=repositories))
-- [Demand Forecasting: Exponential Smoothing Initialization Strategies](https://github.com/ali-can-turan/exponential_smoothing_initialization) - evaluate the performance of Holt-Winters Exponential Smoothing (ETS) models under different initialization strategies and damped trend dynamics.
+- 🔮 [Demand Forecasting: Exponential Smoothing Initialization Strategies](https://github.com/ali-can-turan/exponential_smoothing_initialization) - evaluate the performance of Holt-Winters Exponential Smoothing (ETS) models under different initialization strategies and damped trend dynamics.
 - 📐 [Custom PCA & Comparative Logistic Regression Analyses](https://github.com/ali-can-turan/supervised_PCA_vs_logistic_regression) - dimensionality reduction using Principal Component Analysis (PCA) VIA a manual linear probability model + sigmoid vs. Scikit-Learn logistic regression.
 - 📦 [Supply Chain Cost Analysis](https://github.com/ali-can-turan/mitx-scm-regression-benchmark) - A domain-informed linear regression vs. a hyperparameter search space, domain-excluded lasso regression.
 - 📦 [Supply Chain Analytics & Financial Diagnosis Portfolio](https://github.com/ali-can-turan/supply-chain-analytics-portfolio) - 5 end-to-end projects bridging macro sourcing, enterprise financial diagnostics, and inventory optimization.
